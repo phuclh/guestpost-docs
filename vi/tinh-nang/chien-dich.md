@@ -13,7 +13,7 @@ Khi tạo chiến dịch sẽ có 3 bước chính như sau:
 
 ### Bước 1: Nhập thông tin về chiến dịch
 
-Bước này rất đơn giản, bạn chỉ cần nhập tên chiến dịch, chọn [Tài khoản Email](/vi/tinh-nang/tai-khoan-email.html) để gửi và (danh sách websites)(/vi/tinh-nang/danh-sach-yeu-thich.html) cần gửi tới.
+Bước này rất đơn giản, bạn chỉ cần nhập tên chiến dịch, chọn [Tài khoản Email](/vi/tinh-nang/tai-khoan-email.html) để gửi và [danh sách websites](/vi/tinh-nang/danh-sach-yeu-thich.html) cần gửi tới.
 
 ![Campaign - Step 1](./../../assets/img/campaign-step-1.png)
 
