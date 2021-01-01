@@ -39,12 +39,12 @@ Tính năng **Crawl Guest Posts** sử dụng trong trường hợp từ khóa c
 :::tip Mách nhỏ:
 Bạn cũng có thể tùy biến **Operator** theo ý của bạn.
 
-Ví dụ; **work-with-me**, **write-for-us**, **submit-your-guest-post**
+Ví dụ; `work-with-me`, `write-for-us`, `submit-your-guest-post`
 :::
 
 ## Xem lại lịch sử tìm kiếm
 
-Để xem lại các lịch sử tìm kiếm, bạn hãy nhấn vào *History** trên thanh công cụ trên cùng.
+Để xem lại các lịch sử tìm kiếm, bạn hãy nhấn vào **History** trên thanh công cụ trên cùng.
 
 ![History](./../../assets/img/history.png)
 

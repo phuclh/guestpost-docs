@@ -31,7 +31,7 @@ Guest Post App cung cấp các **Replacers** như sau:
 - `[website.domain]`: Thay thế bằng tên miền của website.
 - `[website.crawled_url]`: Thay thế bằng đường dẫn mà Guest Post App đã quét qua website của người nhận.
 - `[favorite-list.name]`: Thay thế bằng tên của danh sách yêu thích.
-- `[random]`: Chọn ngẫu nhiên một giá trị từ **Faker**.
+- `[random]`: Chọn ngẫu nhiên một giá trị từ [**Faker**](/vi/tinh-nang/mau-email.html#faker-la-gi).
 
 Ví dụ, bạn dán đoạn mã này sau chữ `Xin chào`:
 
