@@ -52,3 +52,5 @@ Khi mọi thứ đã ổn, bạn có thể nhấn **Send Test** để gửi nhá
 Bạn sẽ nhận được email thông báo khi toàn bộ **initial emails** hoặc các **follow-up emails** được gửi.
 
 Sau khi gửi xong, bạn có thể quay lại chiến dịch để xem các thông số thống kê như tỷ lệ mở email, click, reply, etc.
+
+![Campaign Metrics](./../../assets/img/campaign-metrics.png)
