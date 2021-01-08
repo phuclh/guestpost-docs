@@ -30,12 +30,17 @@ module.exports = {
         editLinkText: 'Help us improve this page!',
 
         nav: [
-            { text: 'Home', link: 'https://guestpost.app/', target: '_self' },
-            { text: 'Pricing', link: 'https://guestpost.app/pricing', target: '_self' },
+            {text: 'Home', link: 'https://guestpost.app/', target: '_self'},
+            {
+                text: "Language",
+                link: "/",
+                items: [{text: "English", link: "/en/"}, {text: "Vietnamese", link: "/vi/"}]
+            }
         ],
 
         sidebar: {
-            '/vi/': require('./vi')
+            '/vi/': require('./vi'),
+            '/en/': require('./en')
         },
     },
 }

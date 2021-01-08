@@ -10,7 +10,7 @@ module.exports = [
         title: "Tính năng",
         collapsable: false,
         children: prefix('tinh-nang', [
-            'tim-guest-post',
+            'tim-websites',
             'danh-sach-yeu-thich',
             'tai-khoan-email',
             'mau-email',

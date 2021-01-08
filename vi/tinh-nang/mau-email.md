@@ -54,6 +54,8 @@ Khi này nếu không có tên, thì đoạn mã sẽ in ra như sau:
 `Xin chào, bạn`
 
 :::warning Lưu ý:
+Bạn có thể sử dụng **Replacers** trong cả 2 trường Subject và Body của email.
+
 `[random]` chỉ được sử dụng khi kết hợp với **Faker**. Đọc phần **Faker là gì?** bên dưới để biết thêm chi tiết.
 :::
 

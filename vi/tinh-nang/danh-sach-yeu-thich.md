@@ -10,7 +10,7 @@ Danh sách yêu thích dùng để lưu trữ hay nhóm các websites lại vớ
 
 ## Cách thêm websites vào danh sách yêu thích
 
-Sau khi [tìm guest posts](/vi/tinh-nang/tim-guest-post.html), bạn hãy nhấn vào checkbox của các websites mà bạn muốn thêm vào danh sách, sau đó nhấn nút **Add to list**.
+Sau khi [tìm được các websites chấp nhận guest posts](/vi/tinh-nang/tim-websites.html), bạn hãy nhấn vào checkbox của các websites mà bạn muốn thêm vào danh sách, sau đó nhấn nút **Add to list**.
 
 ![Thêm websites vào danh sách yêu thích](./../../assets/img/add-to-list-btn.png)
 
