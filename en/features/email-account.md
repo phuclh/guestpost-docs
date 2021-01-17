@@ -24,7 +24,7 @@ First, you should know Guest Post App asks for read-only permission (*gmail.read
 
 Since October 2019, [Google announced that it would start being more stringent](https://cloud.google.com/blog/products/g-suite/elevating-user-trust-in-our-api-ecosystems) with software vendors building apps on top of the Gmail API. Specifically, developers using this permission would be subject to additional scrutiny and have to pay a fee of $15,000 – $75,000 or more to have a third party security assessment done.
 
-However, as a startup, we couldn't afford the that much, so we decided to give you 2 options. Sorry for this inconvenience.
+However, as a startup, we couldn't afford the that much for now, so we decided to give you 2 options. Sorry for this inconvenience.
 
 ### Option 1: Grant read-only permission - you can use the automatic email follow-up feature.
 
