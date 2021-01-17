@@ -20,7 +20,7 @@ Press **Connect Gmail Account** button, then select the Gmail account matching t
 
 ## Why I see "Google hasn't verified this app" when connecting my email account to Google.
 
-First, you should know Guest Post App asks for read-only permission (*gmail.readonly*) when connecting your Gmail or Gsuite so the application can detect which emails have a response, so it won't send [follow-up emails](/en/features/campaign.html#step-2-create-the-initial-and-follow-ups-email) to those email addresses anymore.
+First, you should know Guest Post App asks for read-only permission (*gmail.readonly*) when connecting your Gmail or Gsuite, so the application can detect which emails have a response and it won't send [follow-up emails](/en/features/campaign.html#step-2-create-the-initial-and-follow-ups-email) to those email addresses.
 
 Since October 2019, [Google announced that it would start being more stringent](https://cloud.google.com/blog/products/g-suite/elevating-user-trust-in-our-api-ecosystems) with software vendors building apps on top of the Gmail API. Specifically, developers using this permission would be subject to additional scrutiny and have to pay a fee of $15,000 – $75,000 or more to have a third party security assessment done.
 
@@ -32,14 +32,14 @@ It means you need to ignore Google's warning by clicking **Advanced**, then sele
 
 ![Unverified App](./../../assets/img/unverified-app.png)
 
-### Option 2: Don't grant readonly permission - bạn sẽ không sử dụng được tính năng follow-up tự động.
+### Option 2: Don't grant readonly permission - you cannot use the automatic email follow-up feature.
 
 You should click the **Connect Gmail Account Without Read-only Scope** button instead of **Connect Gmail Account**. At this point, Guest Post App won't ask for the read-only permission, and you won't see this warning: "Google hasn't verified this app" from Google.
 
 ![Gmail Buttons](./../../assets/img/gmail-buttons.png)
 
 :::danger Notice:
-If you have selected the **option 2**, and your [email campaigns](/en/features/campaign.html) have set up for sending follow-up emails. Since the application cannot read your emails so Guest Post App will still send follow-up emails, although you have received a response from the webmaster.
+If you have selected the **option 2**, and your [email campaigns](/en/features/campaign.html) have set up for sending follow-up emails. Since the application cannot read your emails so Guest Post App will still send follow-up emails, although you have already received a response from the webmaster.
 
 If you would like to manually mark the email has been responded to prevent that happen, please read the instruction here.
 :::
